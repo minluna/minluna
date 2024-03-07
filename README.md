@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=minluna%20Github&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=🌙minluna%20Github&fontSize=80&fontColor=FFFFFF" />
 </div>
 
 <!--내용 부분-->
@@ -74,11 +74,6 @@
     <img
       src="https://img.shields.io/badge/znddiqjwjs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-</div>
-
-<!--바닥글 부분-->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=footer&text=minluna%20Github&fontSize=90" />
 </div>
 
 <!--
